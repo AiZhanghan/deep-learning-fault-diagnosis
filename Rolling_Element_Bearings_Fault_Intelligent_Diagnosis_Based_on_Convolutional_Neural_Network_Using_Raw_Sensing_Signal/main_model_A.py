@@ -34,7 +34,7 @@ if __name__ == '__main__':
     
     pool2_pool_size = 2
     
-    path = '.\data\A'
+    path = '.\data\C'
     
     data_reader = DataReader()
     x_train, x_test, x_valid, y_train, y_test, y_valid = data_reader.read_data(path)

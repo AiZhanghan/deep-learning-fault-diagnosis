@@ -4,7 +4,7 @@
 
 12 Drive End Fault
 
-DE - 驱动端加速度数据
+DE - 驱动端加速度数据，只取了一个传感器数据
 
 外圈故障选6点钟方向数据
 
@@ -102,7 +102,36 @@ plt.show()
 
 ## Model_A
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_A.png)
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model.png)
 
 
 
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_A_acc.png)
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_A_loss.png)
+
+* 复现精度：98.4%
+
+## Model_B
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_B_acc.png)
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_B_loss.png)
+
+* 复现精度：99.2%
+
+## Model_C
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_C_acc.png)
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_C_loss.png)
+
+* 复现精度：99.2%
+
+## Model_D
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_D_acc.png)
+
+![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model_D_loss.png)
+
+* 复现精度：99.1%
