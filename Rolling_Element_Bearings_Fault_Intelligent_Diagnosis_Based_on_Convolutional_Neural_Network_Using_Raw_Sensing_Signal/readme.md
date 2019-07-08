@@ -54,6 +54,8 @@ DE - 驱动端加速度数据，只取了一个传感器数据
 
 * 加入验证集
 
+* Keras + SKlearn
+
 ## 模型可视化
 
 `keras.utils.vis_utils` 模块提供了一些绘制 Keras 模型的实用功能(使用 `graphviz`)。
