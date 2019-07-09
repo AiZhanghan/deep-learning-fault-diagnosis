@@ -11,7 +11,6 @@ from DataReader import DataReader
 from Preprocessor import Preprocessor
 from keras.utils import to_categorical
 from keras.models import Sequential
-from keras.initializers import he_normal
 from keras.optimizers import Adam
 from keras.layers import Conv1D, MaxPool1D, Dense, Flatten, Dropout
 
