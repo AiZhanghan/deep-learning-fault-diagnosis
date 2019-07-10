@@ -42,9 +42,11 @@ plt.clim(-0.5, 9.5)
 
 ### 数据集大小90
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_90_acc.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_90_acc.png)
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_90_loss.png)
+
+
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_90_loss.png)
 
 * 复现精度：65.6%
 
@@ -52,30 +54,30 @@ plt.clim(-0.5, 9.5)
 
 * t-SNE可视化：
 
-  ![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_90_t_SNE.png)
+  ![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_90_t_SNE.png)
 
 ### 数据集大小300
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_300_acc.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_300_acc.png)
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_300_loss.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_300_loss.png)
 
 复现精度：93.2%
 
 * t-SNE可视化：
 
-  ![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals\effect_of_data_number\data_number_300_t_SNE.png)
+  ![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_300_t_SNE.png)
 
   分析：较好分开，第三类和第一类混叠，Ball-0.07，Ball-0.21
 
 ## 数据集大小 3000
 
-![](.\effect_of_data_number\data_number_3000_acc.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_3000_acc.png)
 
-![](.\effect_of_data_number\data_number_3000_loss.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_3000_loss.png)
 
 * 复现精度：100%
 
 * t-SNE可视化
 
-![](.\effect_of_data_number\data_number_3000_t_SNE.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_3000_t_SNE.png)
