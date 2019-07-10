@@ -106,7 +106,7 @@ plt.show()
 
 ## Model_A
 
-![](G:\Huang_Zhenkai\workspace\github\deep-learning-fault-diagnosis\Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal\model.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/Rolling_Element_Bearings_Fault_Intelligent_Diagnosis_Based_on_Convolutional_Neural_Network_Using_Raw_Sensing_Signal/model.png)
 
 
 
