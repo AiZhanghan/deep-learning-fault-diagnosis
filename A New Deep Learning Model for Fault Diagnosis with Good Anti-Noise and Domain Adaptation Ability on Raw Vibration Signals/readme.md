@@ -70,9 +70,9 @@ plt.clim(-0.5, 9.5)
 
 ## 数据集大小 3000
 
-![](.\effect_of_data_number\data_number_3000_acc.png)
+![Image text](.\effect_of_data_number\data_number_3000_acc.png)
 
-![](.\effect_of_data_number\data_number_3000_loss.png)
+![Image text](.\effect_of_data_number\data_number_3000_loss.png)
 
 * 复现精度：100%
 
