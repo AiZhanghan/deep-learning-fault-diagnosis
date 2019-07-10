@@ -13,10 +13,10 @@ from keras.layers import Conv1D, MaxPool1D, Dense, Flatten, BatchNormalization, 
 
 if __name__ == '__main__':
 
-    data_augment_stride = 512
+    data_augment_stride = 64
     sample_size = 2048
     test_set_num = 25
-    train_set_num = 100
+    train_set_num = 660
     valid_set_num = 7
     
     path = ['.\data\A', '.\data\B', '.\data\C']
@@ -135,7 +135,7 @@ if __name__ == '__main__':
     
     history = model.fit(x_train, 
                         y_train, 
-                        batch_size = 64, 
+                        batch_size = 256, 
                         epochs = 4000, 
                         validation_data = (x_valid, y_valid))
     
