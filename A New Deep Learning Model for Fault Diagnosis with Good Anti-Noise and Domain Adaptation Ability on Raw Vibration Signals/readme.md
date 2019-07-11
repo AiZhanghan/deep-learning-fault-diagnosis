@@ -42,7 +42,7 @@ plt.clim(-0.5, 9.5)
 
 ### 数据集大小90
 
-![]([https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A%20New%20Deep%20Learning%20Model%20for%20Fault%20Diagnosis%20with%20Good%20Anti-Noise%20and%20Domain%20Adaptation%20Ability%20on%20Raw%20Vibration%20Signals/effect_of_data_number/data_number_90_acc.png)
+![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_90_acc.png)
 
 
 
