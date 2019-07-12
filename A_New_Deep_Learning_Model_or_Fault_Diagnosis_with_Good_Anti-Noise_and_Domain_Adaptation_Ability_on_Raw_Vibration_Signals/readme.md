@@ -96,3 +96,39 @@ plt.clim(-0.5, 9.5)
 
   ![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A_New_Deep_Learning_Model_or_Fault_Diagnosis_with_Good_Anti-Noise_and_Domain_Adaptation_Ability_on_Raw_Vibration_Signals/effect_of_data_number/data_number_19800_t_SNE.png)
 
+## 验证不同负载下性能
+
+### 训练集A、测试集B
+
+* 复现精度：99.2%
+
+  ![]()
+
+  ![]()
+
+### 训练集A、测试集C
+
+用上面训练得到的模型，进行诊断
+
+* 复现精度：81.2%
+
+  ![]()
+
+  第8类和第3类相距较近
+
+### 训练集B、测试集A
+
+
+
+### 训练集B、测试集C
+
+
+
+### 训练集C、测试集A
+
+
+
+### 训练集C、测试集B
+
+
+
