@@ -81,3 +81,6 @@ plt.clim(-0.5, 9.5)
 * t-SNE可视化
 
 ![](https://raw.githubusercontent.com/AiZhanghan/deep-learning-fault-diagnosis/master/A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals/effect_of_data_number/data_number_3000_t_SNE.png)
+
+## 数据集大小 19800
+
